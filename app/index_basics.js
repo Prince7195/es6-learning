@@ -1,3 +1,6 @@
+// ES6 - Basics
+console.log('ES6 - Basics');
+
 // using const
 const emails = ['a@a.com'];
 emails.push('b@b.com');
